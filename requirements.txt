@@ -1,0 +1,8 @@
+torch==2.10.0
+torchvision==0.25.0
+transformers==4.57.3
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+scikit-learn==1.7.2
+SimpleITK==2.5.3
